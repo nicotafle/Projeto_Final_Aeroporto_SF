@@ -3,6 +3,7 @@
 ### 📍 Sobre o Projeto
 
 Este trabalho foi parte da minha entrega final para concluir o curso de Big Data na escola Tokio em Portugal 🧑‍🎓
+
 Este projeto visa o tratamento e exploração dos dados provenientes do Aeroporto de São Francisco, e aplicação de um algoritmo de Machine Learning para um agrupamento hierárquico. 
 
 ### 📊 Dados Utilizados
@@ -19,7 +20,9 @@ Python:
 + Seaborn
 + PySpark
 + PyMongo
+
 🤖 Bisecting KMeans - Algoritmo de Aprendizagem Não Supervisionado
+
 Jupyter Notebook 
 
 ### 🔍 Principais Insights
@@ -32,7 +35,7 @@ Jupyter Notebook
 
 ### 📄 Apresentação
 
-Para visualizar apresentação do projeto pode aceder e entender melhor como foram os resultados obtidos pela Machine Learning, como assim também perceber os dados com os que trabalhei.
+Esta apresentação demonstra como foram os resultados obtidos pela Machine Learning, como assim também perceber os dados com os que trabalhei.
 
 📌 https://github.com/nicotafle/Projeto_Final_Aeroporto_SF/blob/dfe8b706b260c9fc7456d8ef8e1ad52592394c47/apresentacao_aeroporto_sf.pdf
 
